@@ -1,4 +1,5 @@
 {
+    "github-action": "https://github.com/file-new/github-action.git",
     "kotlin-android": "https://github.com/file-new/kotlin-android.git",
     "kotlin-full-stack": "https://github.com/file-new/kotlin-full-stack.git"
 }
